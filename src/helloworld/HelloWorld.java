@@ -17,9 +17,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World!");
-        System.out.println("Git Command Test!");
-        System.out.println("Need add again ?");
-        System.out.println("another commit test");
     }
     
 }
